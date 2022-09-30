@@ -3,3 +3,4 @@ mypasswordsfile
 *.c
 *.log
 **/fq.gz
+!bowtie2.log
